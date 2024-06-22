@@ -61,7 +61,7 @@
   <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
 <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
