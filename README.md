@@ -39,7 +39,6 @@
   <br/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img alt="ngrok" src="https://img.shields.io/badge/ngrok-1F1E37.svg?&style=for-the-badge&logo=ngrok&logoColor=white"/>
 <br/>
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -57,6 +56,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
+   <img alt="ngrok" src="https://img.shields.io/badge/ngrok-1F1E37.svg?&style=for-the-badge&logo=ngrok&logoColor=white"/>
   <img alt="Postman" src ="https://img.shields.io/badge/PostMan-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
   <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
