@@ -32,7 +32,6 @@
   <img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=white"/>
   <br/>
   <img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white"/>
-  <img alt="React Testing Library" src ="https://img.shields.io/badge/React Testing Library-EC5990.svg?&style=for-the-badge&logo=React Testing Library&logoColor=white"/>
   <br/>
   <img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
