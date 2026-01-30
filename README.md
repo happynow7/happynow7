@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=424242&center=true&random=false&width=800&height=150&lines=Hello%2C+I'm+HyeIn-Yang+%F0%9F%90%BE)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>Frontend Developer</b> 👩‍💻 <br>
+  <b>Web Publisher / Frontend Developer</b> 👩‍💻 <br>
   <b>I'm growing everyday</b> 🌱
 </p>
 
